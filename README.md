@@ -30,7 +30,9 @@ Hypofrontality
 
 
 
-Hypofrontality is a state of decreased cerebral blood flow (CBF) in the prefrontal cortex of the brain. Hypofrontality is symptomatic of several neurological medical conditions, such as schizophrenia, attention deficit hyperactivity disorder (ADHD), bipolar disorder, and major depressive disorder.[1][2][3] This condition was initially described by Ingvar and Franzén in 1974, through the use of xenon blood flow technique with 32 detectors to image the brains of patients with schizophrenia.[4] This finding was confirmed in subsequent studies using the improved spatial resolution of positron emission tomography with the fluorodeoxyglucose (18F-FDG) tracer.[5] Subsequent neuroimaging work has shown that the decreases in prefrontal CBF are localized to the medial, lateral, and orbital portions of the prefrontal cortex.[6] Hypofrontality is thought to contribute to the negative symptoms of schizophrenia
+Hypofrontality is a state of decreased cerebral blood flow (CBF) in the prefrontal cortex of the brain. Hypofrontality is symptomatic of several neurological medical conditions, such as schizophrenia, attention deficit hyperactivity disorder (ADHD), bipolar disorder, and major depressive disorder. This condition was initially described by Ingvar and Franzén in 1974, through the use of xenon blood flow technique with 32 detectors to image the brains of patients with schizophrenia.
+
+This finding was confirmed in subsequent studies using the improved spatial resolution of positron emission tomography with the fluorodeoxyglucose (18F-FDG) tracer. Subsequent neuroimaging work has shown that the decreases in prefrontal CBF are localized to the medial, lateral, and orbital portions of the prefrontal cortex. Hypofrontality is thought to contribute to the negative symptoms of schizophrenia
 
 And that
 
